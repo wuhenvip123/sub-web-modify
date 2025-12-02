@@ -892,6 +892,7 @@ export default {
         rename: "",
         devid: "",
         interval: "",
+        diyua: "",
         emoji: true,
         nodeList: false,
         extraset: false,
@@ -1415,6 +1416,7 @@ export default {
   }
 };
 </script>
+
 
 
 
